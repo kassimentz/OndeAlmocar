@@ -1,0 +1,86 @@
+
+  [
+    {
+      "idRestaurante": 1,
+      "nome": "restaurante1",
+      "escolhidoSemana": false
+    },
+    {
+      "idRestaurante": 2,
+      "nome": "restaurante2",
+      "escolhidoSemana": false
+    }
+    ,
+    {
+      "idRestaurante": 3,
+      "nome": "restaurante3",
+      "escolhidoSemana": false
+    }
+    ,
+    {
+      "idRestaurante": 4,
+      "nome": "restaurante4",
+      "escolhidoSemana": false
+    }
+    ,
+    {
+      "idRestaurante": 5,
+      "nome": "restaurante5",
+      "escolhidoSemana": false
+    }
+    ,
+    {
+      "idRestaurante": 6,
+      "nome": "restaurante6",
+      "escolhidoSemana": false
+    }
+    ,
+    {
+      "idRestaurante": 7,
+      "nome": "restaurante7",
+      "escolhidoSemana": false
+    }
+    ,
+    {
+      "idRestaurante": 8,
+      "nome": "restaurante8",
+      "escolhidoSemana": false
+    }
+    ,
+    {
+      "idRestaurante": 9,
+      "nome": "restaurante9",
+      "escolhidoSemana": false
+    }
+    ,
+    {
+      "idRestaurante": 10,
+      "nome": "restaurante2",
+      "escolhidoSemana": false
+    }
+    ,
+    {
+      "idRestaurante": 11,
+      "nome": "restaurante11",
+      "escolhidoSemana": false
+    }
+    ,
+    {
+      "idRestaurante": 12,
+      "nome": "restaurante12",
+      "escolhidoSemana": false
+    }
+    ,
+    {
+      "idRestaurante": 13,
+      "nome": "restaurante13",
+      "escolhidoSemana": false
+    }
+    ,
+    {
+      "idRestaurante": 14,
+      "nome": "restaurante14",
+      "escolhidoSemana": false
+    }
+  ]
+
